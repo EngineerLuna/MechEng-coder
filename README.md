@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EngineerLuna
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning programming language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning programming languages Javascript and Rust.
+- 📫 How to reach me https://noderforbetter.wixsite.com/portfolio
 
 <!---
 MechEng-coder/MechEng-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
